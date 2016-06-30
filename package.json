@@ -1,0 +1,25 @@
+{
+  "name": "steal-build-package-json-bug",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "steal-tools",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-mujica/steal-build-package-json-bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-mujica/steal-build-package-json-bug/issues"
+  },
+  "homepage": "https://github.com/m-mujica/steal-build-package-json-bug#readme",
+  "devDependencies": {
+    "dummy-pkg": "0.0.1",
+    "steal": "^0.16.22",
+    "steal-tools": "^0.16.5"
+  }
+}
